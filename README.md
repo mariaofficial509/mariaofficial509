@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning *Web Development*
 
-- 👨‍💻 All of my projects are available at [https://github.com/mariaofficial](https://github.com/mariaofficial509)
+- 👨‍💻 All of my projects are available at [https://github.com/mariaofficial](https://github.com/mariaofficial509
 
 - 📝 Also found me on Linkedin [https://www.linkedin.com/in/maria-saleem-011001318/](https://www.linkedin.com/in/maria-saleem-011001318/)
 
-- 💬 Ask me about *React JS, Firebase, Redux, JavaScript*
 
 - 📫 How to reach me *maria29saleem@gmail.com*
 
